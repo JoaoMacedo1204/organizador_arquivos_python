@@ -24,3 +24,17 @@ Projeto de automação em Python que organiza os arquivos automaticamente de aco
 - PDFs: ".pdf"
 - Texto: ".txt", ".docx"
 
+## Para executar
+
+1. Baixe ou clone o repositório.
+2. Execute o arquivo Python:
+   organizador_python.py.
+3. Uma janela será aberta para selecionar a pasta que deseja organizar.
+4. Após selecionar a pasta, os arquivos serão organizados automaticamente por suas extensões.
+
+## Aprendizados
+
+- Manipulação de arquivos com Python
+- Automação de tarefas repetitivas
+- Criação e análise de diretórios
+- Uso de dicionários para a organização
